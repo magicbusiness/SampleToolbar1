@@ -1,0 +1,4 @@
+To use Toolbar
+1. Create menu item
+2. Next implement onCreateOptionsMenu for show the item on toolbar
+3. Lastly implement onOptionsItemSelected for item can be clicked
